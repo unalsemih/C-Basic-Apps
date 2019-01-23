@@ -1,0 +1,12 @@
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.exe.config
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.exe
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\bin\Debug\Matematikoyunu.pdb
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.Form1.resources
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.KayitAc.resources
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.KayıtEklecs.resources
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.Properties.Resources.resources
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.csproj.GenerateResource.cache
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.exe
+c:\users\semih\source\repos\Matematikoyunu\Matematikoyunu\obj\Debug\Matematikoyunu.pdb

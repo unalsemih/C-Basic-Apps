@@ -1,0 +1,22 @@
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.cache
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
+c:\users\semih\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Giris.resources
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Giris.resources
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
+C:\Users\Semih\Desktop\c# ilk hafta ödevleri\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb

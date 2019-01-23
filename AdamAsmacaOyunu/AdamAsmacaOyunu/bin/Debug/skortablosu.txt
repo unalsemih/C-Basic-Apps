@@ -1,0 +1,13 @@
+Mehmet|100
+Ahmet|100
+Adem|100
+Kamil|66
+Ümit|60
+Oğuz|60
+Melih|60
+burak|60
+Semih|50
+hakan|50
+Semih|50
+Mustafa|20
+Serkan |0

@@ -1,0 +1,23 @@
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Form1.resources
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Form2.resources
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Properties.Resources.resources
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csproj.GenerateResource.cache
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe.config
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.pdb
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.exe
+c:\users\semih\source\repos\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.pdb
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe.config
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.pdb
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Form1.resources
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Form2.resources
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Properties.Resources.resources
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.exe
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.pdb
+C:\Users\Semih\Desktop\yunus adam asmaca\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.FormSkor.resources
