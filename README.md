@@ -1,12 +1,12 @@
 # 4 Basic-Apps with C# Programming Language
 
-- Hangman Game
-- Maths Game
-- Number Finding Game
-- Memory Game
+- Hangman Game (Adam Asmaca Oyunu)
+- Maths Game (Matematik Oyunu)
+- Number Finding Game (Sayı Bulma Oyunu)
+- Memory Game (Hafıza Oyunu)
 
 
-## 1) Hangman Game
+## 1) Hangman Game (Adam Asmaca Oyunu)
 ✓ Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununudur.
 
 ✓ Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturuldu. Bu metin
@@ -33,7 +33,7 @@ düşürülmemelidir.
 ![](https://github.com/unalsemih/repo-images/blob/master/hangman-game.png?raw=true)
 
 
-## 2) Maths Game
+## 2) Maths Game (Matematik Oyunu)
 ✓ İlkokul öğrencilerine yönelik bir 4 işlem alıştırma oyunudur.
 
 ✓ Oyun 5 seviden oluşmaktadır ve her seviye 4 blok soru içermelidir.
@@ -57,7 +57,7 @@ edilebilmektedir.
 ✓ Programın kontrolünü kolaylaştırmak amacıyla, bir hile eklenmesi istenmiştir. Oyun komut satırından “Matematikoyunu.exe open x” şeklinde çalıştırıldığında istenilen seviyenin kilidi açık olarak başlamalıdır. x, değişkeni 2-3-4-5 veya “all”
 değerlerini alabilir. Girilen değere göre seviye atlanmaktadır.
 
-## 3) Number Finding Game
+## 3) Number Finding Game (Sayı Bulma Oyunu)
 ✓ Kullanıcıların uygulamada istenilen sayıyı, verilen hak ve süre içerisinde bulması istenilen bir oyundur.
 
 ✓ Kullanıcı sayıyı bulmasına yardımcı olmak için yerinde olanlara mavi renk; yerinde
@@ -71,7 +71,7 @@ olmayıp içinde geçen sayılara kırmızı renk ile işaretlenmektedir.
 
 
 
-## 4) Memory Game
+## 4) Memory Game (Hafıza Oyunu)
 ✓ Oyuna hafızaya dayanmakta ve 2 oyuncu ile oynanmaktadır. Ekrana matris şeklinde
 rasgele dağılmış şekilde 20 çift resim gelecek ve 5 saniye bekledikten sonra kapanarak;
 birinci oyuncu oyuna başlayacaktır.
