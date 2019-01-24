@@ -62,6 +62,7 @@ değerlerini alabilir. Girilen değere göre seviye atlanmaktadır.
 
 ✓ Kullanıcı sayıyı bulmasına yardımcı olmak için yerinde olanlara mavi renk; yerinde
 olmayıp içinde geçen sayılara kırmızı renk ile işaretlenmektedir.
+
 ![](https://github.com/unalsemih/repo-images/blob/master/numbergame.png?raw=true)
 
 ✓ Skor listesi ve gerekli bilgiler bir dosyada tutulmaktadır.
