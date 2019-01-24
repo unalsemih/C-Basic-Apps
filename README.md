@@ -7,11 +7,14 @@
 
 
 ## 1) Hangman Game
-- Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununu
+✓ Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununu
 Windows uygulaması şeklinde kodlamanız istenmektedir. 
 
-Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturun. Bu metin
+✓ Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturun. Bu metin
 dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmelidir.
+✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
+görüntülenebilmelidir.
+![](https://github.com/unalsemih/repo-images/blob/master/hangman-home.png?raw=true)
 
 ✓ Kullanıcını oyuna başladığında opsiyonel olarak belirlediği harf sayısı kadar veya
 rasgele boyutlarda bir kelime, veritabanındaki uygun kelimelerden seçilmedir.
@@ -25,9 +28,6 @@ bulması istenmelidir.
 
 ✓ Tahminlerde harf tekrarına izin verilmemeli ve kullanıcının hak sayısından
 düşürülmemelidir.
-✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
-görüntülenebilmelidir.
-![](https://github.com/unalsemih/repo-images/blob/master/hangman-home.png?raw=true)
 
 ![](https://github.com/unalsemih/repo-images/blob/master/hangman-game.png?raw=true)
 
