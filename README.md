@@ -1,3 +1,3 @@
 # C-Basic-Apps
 
-#1) HANGMAN GAME
+# 1) HANGMAN GAME
