@@ -9,14 +9,20 @@
 ## 1) Hangman Game
 - Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununu
 Windows uygulaması şeklinde kodlamanız istenmektedir. 
+
 Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturun. Bu metin
 dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmelidir.
+
 ✓ Kullanıcını oyuna başladığında opsiyonel olarak belirlediği harf sayısı kadar veya
 rasgele boyutlarda bir kelime, veritabanındaki uygun kelimelerden seçilmedir.
+
 ✓ Sorulan kelimeye uzunluğunun 2 fazlası kadar bir hak tanıyarak kullanıcının kelimeyi
 bulması istenmelidir.
+
 ✓ Sorulan kelimenin her harfi için farklı metin kutuları kullanılmalıdır.
+
 ✓ Yanlış tahmin edilen harfler form üzerinde görülmelidir.
+
 ✓ Tahminlerde harf tekrarına izin verilmemeli ve kullanıcının hak sayısından
 düşürülmemelidir.
 ✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
