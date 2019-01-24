@@ -8,8 +8,10 @@
 
 ## 1) Hangman Game
 ✓ Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununudur.
-✓ Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturun. Bu metin
-dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmelidir.
+
+✓ Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturuldu. Bu metin
+dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmektedir.
+
 ✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
 görüntülenebilmelidir.
 ![](https://github.com/unalsemih/repo-images/blob/master/hangman-home.png?raw=true)
@@ -31,7 +33,8 @@ düşürülmemelidir.
 
 
 ## 2) Maths Game
-
+✓ İlkokul öğrencilerine yönelik bir 4 işlem alıştırma oyunudur.
+✓ Oyun en az 5 seviden oluşmalı; her seviye 4 blok soru içermelidir
 ![](https://github.com/unalsemih/repo-images/blob/master/mathgame.png?raw=true)
 
 ## 3) Number Finding Game
