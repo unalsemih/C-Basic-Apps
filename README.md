@@ -7,9 +7,7 @@
 
 
 ## 1) Hangman Game
-✓ Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununu
-Windows uygulaması şeklinde kodlamanız istenmektedir. 
-
+✓ Bilinemeyen her harf için adamı asılmaya bir adım daha yaklaştıran kelime oyununudur.
 ✓ Kelime veritabanı olarak kullanılmak üzere bir metin dosyası oluşturun. Bu metin
 dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmelidir.
 ✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
