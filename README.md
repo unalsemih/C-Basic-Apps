@@ -14,6 +14,7 @@ dosyasına yeni kelime ekleme ve dosyadan kelime silme işlemleri yapılabilmekt
 
 ✓ Skor listesi yapılmalıdır ve bu bilgiler bir dosyada tutularak oyun yediden başladığında
 görüntülenebilmelidir.
+
 ![](https://github.com/unalsemih/repo-images/blob/master/hangman-home.png?raw=true)
 
 ✓ Kullanıcını oyuna başladığında opsiyonel olarak belirlediği harf sayısı kadar veya
@@ -50,6 +51,7 @@ dosyada saklanmaktadır. Oyun kapatılıp yediden başlandığında kalınan sev
 edilebilmektedir.
 
 ✓ Seviye atlandıkça işlemlerin basamak sayısı ve süre makul derecede artmaktadır. 
+
 ![](https://github.com/unalsemih/repo-images/blob/master/mathgame.png?raw=true)
 
 ✓ Programın kontrolünü kolaylaştırmak amacıyla, bir hile eklenmesi istenmiştir. Oyun komut satırından “Matematikoyunu.exe open x” şeklinde çalıştırıldığında istenilen seviyenin kilidi açık olarak başlamalıdır. x, değişkeni 2-3-4-5 veya “all”
@@ -63,6 +65,7 @@ olmayıp içinde geçen sayılara kırmızı renk ile işaretlenmektedir.
 ![](https://github.com/unalsemih/repo-images/blob/master/numbergame.png?raw=true)
 
 ✓ Skor listesi ve gerekli bilgiler bir dosyada tutulmaktadır.
+
 ![](https://github.com/unalsemih/repo-images/blob/master/numbergameGiris.png?raw=true)
 
 
