@@ -1,9 +1,9 @@
 # 4 Basic-Apps with C# Programming Language
 
-# 1) Hangman Game
-# 2) Maths Game
-# 3) Memory Game
-# 4) Number Finding Game
+- 1) Hangman Game
+- 2) Maths Game
+- 3) Memory Game
+- 4) Number Finding Game
 
 # 1) Hangman Game
 
